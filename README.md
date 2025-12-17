@@ -254,13 +254,13 @@ event-platform/
 
 ## 🌐 Deployment
 
-### Backend (Render.com)
+### Backend (https://event-platform-mern.onrender.com)
 1. Push code to GitHub
 2. Connect Render to GitHub repo
 3. Set environment variables
 4. Deploy with Node.js runtime
 
-### Frontend (Vercel)
+### Frontend (https://event-platform-mern-a746m4blr-gowri-priyas-projects.vercel.app/)
 1. Connect Vercel to GitHub repo
 2. Set `REACT_APP_API_URL` to backend URL
 3. Deploy with Create React App preset
@@ -322,9 +322,9 @@ event-platform/
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+**Gowri Priya**
+- GitHub: @gouripriya-17
+- Email: gowripriya.kaluvacharla@gmail.com
 
 ## 📄 License
 
