@@ -1,0 +1,14 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# System files
+.DS_Store
+Thumbs.db
