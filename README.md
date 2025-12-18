@@ -332,7 +332,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- Assignment provided by [Company Name]
+- Assignment provided by Fission Infotech
 - MongoDB Atlas for database hosting
 - Render and Vercel for free deployment
 - React community for excellent documentation
