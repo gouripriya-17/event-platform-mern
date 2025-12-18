@@ -4,8 +4,8 @@ A full-stack event management platform built with MongoDB, Express.js, React.js,
 
 ## 🌐 Live Demo
 
-- **Frontend**: [Your Vercel URL here]
-- **Backend**: [Your Render URL here]
+- **Frontend**: https://event-platform-mern-a746m4blr-gowri-priyas-projects.vercel.app/
+- **Backend**:https://event-platform-mern.onrender.com
 
 ## 📋 Features Implemented
 
